@@ -1,1 +1,4 @@
-URLServer = "https://itsmerjc.x10.mx/libon/login.php"
+URLSERVER = "https://itsmerjc.x10.mx/libon/login.php"
+
+ARM64 = ""
+ARM = ""
