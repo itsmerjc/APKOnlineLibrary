@@ -1,4 +1,4 @@
 URLSERVER = "https://itsmerjc.x10.mx/libon/login.php"
 
-ARM64 = "https://github.com/itsmerjc/APKOnlineLibrary/raw/main/lib/arm64-v8a/libRJCserver+.so"
-ARM = "https://github.com/itsmerjc/APKOnlineLibrary/raw/main/lib/armeabi-v7a/libRJCserver+.so"
+ARM64 = "https://raw.githubusercontent.com/itsmerjc/APKOnlineLibrary/main/lib/arm64-v8a/libRJCserver%2B.so"
+ARM = "https://raw.githubusercontent.com/itsmerjc/APKOnlineLibrary/main/lib/arm64-v8a/libRJCserver%2B.so"
