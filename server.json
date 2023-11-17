@@ -1,5 +1,5 @@
-
 URL = "https://itsmerjc.x10.mx/bot/login.php"
+URLSERVER = "https://itsmerjc.x10.mx/bot/login.php"
 
 ARM64 = "https://raw.githubusercontent.com/itsmerjc/APKOnlineLibrary/main/lib/arm64-v8a/libRJCserver+.so"
 ARM = "https://raw.githubusercontent.com/itsmerjc/APKOnlineLibrary/main/lib/arm64-v8a/libRJCserver+.so"
