@@ -1,6 +1,6 @@
 URLServer = "https://library.itsmerjc.com/libon/login.php"
 URLServer+ = "https://itsmerjc.x10.mx/panel/libon/login.php"
-URLServer-BOSSJI = "https://bossji.itsmerjc.com/panel/libon/login.php"
+URL-BOSSJI = "https://bossji.itsmerjc.com/panel/libon/login.php"
 
 ARM64 = "https://raw.githubusercontent.com/itsmerjc/APKOnlineLibrary/main/lib/arm64-v8a/libRJCserver+.so"
 ARM = "https://raw.githubusercontent.com/itsmerjc/APKOnlineLibrary/main/lib/arm64-v8a/libRJCserver+.so"
