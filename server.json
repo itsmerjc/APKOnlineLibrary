@@ -3,7 +3,7 @@ URLServer+ = "https://itsmerjc.x10.mx/panel/libon/login.php"
 
 URL = "https://itsmerjc.x10.mx/panel/libon/login2.php"
 
-URL+ = "https://itsmerjc.org/panel/libon/login.php"
+URL+ = "https://deviceid.itsmerjc.org/panel/libon/login.php"
 
 URL-BOSSJI = "https://bossji.itsmerjc.com/panel/libon/login.php"
 URL-TOSHI = "https://silentmods.itsmerjc.com/panel/libon/login.php"
