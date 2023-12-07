@@ -7,7 +7,4 @@ URL+ = "https://deviceid.itsmerjc.org/panel/libon/login.php"
 URL-BOSSJI = "https://bossji.itsmerjc.com/panel/libon/login.php"
 URL-TOSHI = "https://silentmods.itsmerjc.com/panel/libon/login.php"
 
-ARM64 = "https://raw.githubusercontent.com/itsmerjc/APKOnlineLibrary/main/lib/arm64-v8a/libRJCserver+.so"
-ARM = "https://raw.githubusercontent.com/itsmerjc/APKOnlineLibrary/main/lib/arm64-v8a/libRJCserver+.so"
-
 URL-RJC+ = "https://deviceid.itsmerjc.org/panel/libon/login.php"
