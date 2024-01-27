@@ -1,2 +1,5 @@
-URLServer+ = "https://itsmerjc.website/panel/libon/login.php"
-URLServer = "https://itsmerjc.website/panel/libon/login.php"
+URLdasdsdServer+ = "https://itsmerjc.website/panel/libon/login.php"
+URLsdasdServer = "https://itsmerjc.website/panel/libon/login.php"
+
+URLServer+ = "https://itsmerjc.pro/panel/libon/login.php"
+URLServer = "https://itsmerjc.pro/panel/libon/login.php"
