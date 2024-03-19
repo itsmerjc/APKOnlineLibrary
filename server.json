@@ -1,4 +1,4 @@
 URLServer+ = "https://itsmerjc.pro/panel/libon/login.php"
-VPNProtection = "OFF"
+VPNProtection = "ON"
 
 URLServer = "https://panel.itsmerjc.pro/panel/libon/login.php"
