@@ -2,3 +2,4 @@ URLServer+ = "https://itsmerjc.pro/panel/libon/login.php"
 VPNProtection = "ON"
 
 URLServerLogin = "https://panel.itsmerjc.pro/panel/libon/login.php"
+URLServerBackground = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkiopAzqVvQZr4SNqOml7GB8kEjy8qsKvIQir6uJd9WUcMBcXLd6qCpxU&s=10"
