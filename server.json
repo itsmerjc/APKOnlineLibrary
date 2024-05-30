@@ -3,3 +3,4 @@ VPNProtection = "ON"
 
 URLServerOffline+ = "https://raikous.itsmerjc.pro/panel/libon/login.php"
 URLServerLink = "https://panel.itsmerjc.pro/panel/libon/login.php"
+HTTPS = "https://panel.itsmerjc.pro/panel/libon/login.php"
