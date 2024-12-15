@@ -1,7 +1,7 @@
 HTTPServer+ = "https://itsmerjc.alwaysdata.net/panel/libon/login.php"
 
 URLServer+ = "https://itsmerjc.pro/panel/libon/login.php"
-VPNProtection = "ON"
+VPNProtection = "OFF"
 
 URLServerLink = "https://injector.itsmerjc.pro/panel/libon/login.php"
 HTTPS = "https://panel.itsmerjc.pro/panel/libon/login.php"
