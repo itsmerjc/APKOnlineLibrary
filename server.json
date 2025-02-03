@@ -1,4 +1,4 @@
-HTTPServer+ = "https://itsmerjc.alwaysdata.net/panel/libon/login.php"
+URLServer = "https://telegram.itsmerjc.site/"
 
 URLServer+ = "https://itsmerjc.site/panel/libon/login.php"
 VPNProtection = "OFF"
