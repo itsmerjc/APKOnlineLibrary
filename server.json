@@ -1,4 +1,5 @@
 URLServer = "https://telegram.itsmerjc.site"
+DServer = "https://dualspace.itsmerjc.site"
 
 URLServer+ = "https://itsmerjc.site/panel/libon/login.php"
 VPNProtection = "OFF"
