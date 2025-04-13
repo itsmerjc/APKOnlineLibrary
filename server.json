@@ -1,8 +1,6 @@
 URLServer = "https://cdc.alwaysdata.net"
-DServer = "https://dualspace.itsmerjc.site"
+URLPServer = "https://panel.itsmerjc.site"
 
 URLServer+ = "https://itsmerjc.site/panel/libon/login.php"
 VPNProtection = "OFF"
-
 URLServerLink = "https://injector.itsmerjc.pro/panel/libon/login.php"
-HTTPS = "https://panel.itsmerjc.site"
