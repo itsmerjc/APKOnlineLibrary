@@ -7,7 +7,7 @@ URLpanelServers = "https://panel.itsmerjc.site"
 ADSpanelServers = "https://hsrcph.com/panel/terms.php"
 
 URLServer+ = "https://itsmerjc.net/panel/libon/login.php"
-VPNProtection = "OFF"
+VPNProtection = "ON"
 
 URL = "https://telegram.itsmerjc.site"
 URLServerLink = "https://injector.itsmerjc.pro/panel/libon/login.php"
