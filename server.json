@@ -1,6 +1,6 @@
-URLServer = "https://telegram.itsmerjc.net"
-URLServers = "https://telegram.itsmerjc.net"
-ADSServers = "https://telegram.itsmerjc.net/term.php"
+URLServer = "https://telegram.itsmerjc.site"
+URLServers = "https://telegram.itsmerjc.site"
+ADSServers = "https://telegram.itsmerjc.site/term.php"
 
 URLpanelServers = "https://panel.itsmerjc.site"
 ADSpanelServers = "https://hsrcph.com/panel/terms.php"
@@ -8,4 +8,4 @@ ADSpanelServers = "https://hsrcph.com/panel/terms.php"
 URLServer+ = "https://itsmerjc.net/panel/libon/login.php"
 VPNProtection = "ON"
 
-URL = "https://telegram.itsmerjc.net"
+URL = "https://telegram.itsmerjc.site"
