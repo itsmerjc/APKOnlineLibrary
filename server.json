@@ -1,6 +1,6 @@
-URLServer = "https://telegram.itsmerjc.site"
-URLServers = "https://telegram.itsmerjc.site"
-ADSServers = "https://telegram.itsmerjc.site/term.php"
+URLServer = "https://telegram.itsmerjc.net"
+URLServers = "https://telegram.itsmerjc.net"
+ADSServers = "https://telegram.itsmerjc.net/term.php"
 
 URLpanelServers = "https://panel.itsmerjc.site"
 ADSpanelServers = "https://hsrcph.com/panel/terms.php"
