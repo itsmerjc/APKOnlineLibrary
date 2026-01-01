@@ -5,7 +5,7 @@ ADSServers = "https://telegram.itsmerjc.net/term.php"
 URLpanelServers = "https://panel.itsmerjc.site"
 ADSpanelServers = "https://hsrcph.com/panel/terms.php"
 
-URLServer+ = "https://itsmerjc.net/panel/libon/login.php"
+URLServer+ = "https://panel.itsmerjc.net/panel/libon/login.php"
 VPNProtection = "ON"
 
 URL = "https://telegram.itsmerjc.site"
