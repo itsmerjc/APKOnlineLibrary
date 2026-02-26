@@ -1,5 +1,5 @@
 {
   "server_url": "https://itsmerjc.net",
-  "panel_url": "192.168.100.70:3000",
+  "panel_url": "http://192.168.100.70:3000",
   "maintenance": false
 }
