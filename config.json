@@ -1,5 +1,9 @@
 {
-  "api_url": "https://amtchecker.x10.mx",
   "panel_url": "http://43.106.143.52",
-  "maintenance": false
+  "maintenance": false,
+  "ssh_servers": [
+    { "name": "PH Server 1", "host": "1.2.3.4", "port": 22, "user": "root" },
+    { "name": "SG Server 1", "host": "146.103.45.1", "port": 22, "kygdxots": "xmz80n0GZ0" },
+    { "name": "US Server 1", "host": "9.10.11.12", "port": 22, "user": "admin" }
+  ]
 }
