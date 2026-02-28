@@ -1,5 +1,5 @@
 {
   "api_url": "https://amtchecker.x10.mx",
-  "panel_url": "https://43.106.143.52:3000",
+  "panel_url": "http://43.106.143.52:3000",
   "maintenance": false
 }
