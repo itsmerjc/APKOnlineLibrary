@@ -1,5 +1,5 @@
 {
-  "panel_url": "http://162.35.26.116:3000",
+  "panel_url": "https://itsmerjc.net",
   "maintenance": false,
   "ssh_servers": [
     { "name": "PH Server 1", "host": "1.2.3.4", "port": 22, "user": "root" },
